@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi There👋, I'm Priyanshi Raj</h1>
 <h3 align="center">A passionate learner trying to explore new stuff.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="Priyanshi-Raj" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on **Web Development**
