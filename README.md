@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate to an **Open-source**
+- 👯 I’m looking to collaborate to  **Open-source project**
 
 - 🤝 I’m looking for help with **Git**
 
 - 📫 How to reach me **priyanshiraj2909@gmail.com**
+
+- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
