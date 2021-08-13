@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **priyanshiraj2909@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+
 
 
 
