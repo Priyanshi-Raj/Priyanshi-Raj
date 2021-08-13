@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-Raj&layout=compact&langs_count=10&count_private=true&theme=black" alt="Priyanshi-Raj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-Raj&layout=compact&langs_count=10&count_private=true&theme=dark" alt="Priyanshi-Raj" />
 </p>
 
 <p align="center">
