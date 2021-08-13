@@ -40,5 +40,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Priyanshi-Raj&theme=radical" />
 </p>
 <p align="center">
-  <img src ="https://komarev.com/ghpvc/?username=&style=Priyanshi-Rajplastic&color=f72585"/>
+  
 </p>
