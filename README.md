@@ -29,7 +29,7 @@
 
 <h3 align="center">⚡Github Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshi-Raj&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Priyanshi-Raj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshi-Raj&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Priyanshi-Raj" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Priyanshi-Raj&theme=radical" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Priyanshi-Raj&theme=dark" />
 </p>
 <p align="center">
   
