@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">I'm Priyanshi Raj</h1>
 <h3 align="center">A passionate learner trying to explore new stuff. <br> I am First year student pursuing my Bachelor's in Information Technology from JSS academy of Technical Education ,  Noida.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 - 🔭 I’m currently working on **Web Development**
 
