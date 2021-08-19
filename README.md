@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate to  **Open-source project**
+- 👯 I’m looking to collaborate to  **Open- source project**
 
 - 🤝 I’m looking for help with **Git**
 
