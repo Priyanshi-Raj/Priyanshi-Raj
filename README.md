@@ -36,9 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-Raj&layout=compact&langs_count=10&count_private=true&theme=dark" alt="Priyanshi-Raj" />
 </p>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Priyanshi-Raj&theme=dark" />
-</p>
+
 <p align="center">
   
 </p>
