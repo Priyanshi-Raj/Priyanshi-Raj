@@ -32,9 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshi-Raj&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Priyanshi-Raj" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-Raj&layout=compact&langs_count=10&count_private=true&theme=dark" alt="Priyanshi-Raj" />
-</p>
+
 
 
 <p align="center">
