@@ -6,14 +6,6 @@
 <h3 align="center">A passionate learner trying to explore new stuff.</h3>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Reactjs and Nodejs**
-
-- 👯 I’m looking to collaborate to  **Open- source project**
-
-- 🤝 I’m looking for help with **Git**
-
 - 📫 How to reach me **priyanshiraj2909@gmail.com**
 
 
